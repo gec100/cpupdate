@@ -37,7 +37,7 @@ rem Otherwise you have to hit a keystroke after the run - which enables you
 rem to see what happened.
 rem
 rem set autoclose="YES"
-set autoclose="NO"
+set autoclose="No"
 rem =============================================================================
 rem You should replace these with the full path to the files if you use this
 rem script without the portable editions of Git and 7-Zip.
